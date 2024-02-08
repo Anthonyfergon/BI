@@ -1,0 +1,46 @@
+# _____________________________________________________________________
+#                    BUSINESS_INTELLIGENCE_GUIDELINE
+#               Prepared by AnthonyCRENG28, Rabbit industries. 
+#                                               
+# _____________________________________________________________________
+
+# ------------------------------------------------------------------- #
+#### WHAT IS A DASHBOARD?
+# ------------------------------------------------------------------- #
+https://www.selecthub.com/business-intelligence/4-best-practices-follow-selecting-implementing-bi-tools/
+A dashboard is a data visualization that seeks to answer a business question by displaying key performance indicators (KPIs) and analyzing information.
+They are built to fulfill specific needs and generally include charts and graphs, interactivity, real-time connectivity and customization options.
+
+#### DASHBOARD BEST_PRACTICES?
+https://www.selecthub.com/business-intelligence/4-best-practices-follow-selecting-implementing-bi-tools/
+
+#### Which chart or graph is right for you?
+C:\Users\Asus VivoBook\Dropbox\My PC (DESKTOP-GN5CQHE)\Documents\My Studies\Tableau\Best Practices in Tableau
+
+
+
+
+# ------------------------------------------------------------------- #
+#### BI_BEST_PRACTICES
+# ------------------------------------------------------------------- #
+
+01. Know your audience
+		start by asking questions about their priorities and how they consume data to inform the best way to present the data.
+02. Consider display size
+		Audience’s habits might inform your dashboard design (mobile, phone, tablets)
+03. Plan for fast load times
+		Perform calculations in the database to reduce overhead. 
+04. Informed Design
+		Your dashboard should have a sensible “flow” and a logical layout of different pieces of information.
+05. Limit the number of views and colors
+		Avoid distractions, focus the attention on the big picture.
+06. Add interactivity to encourage exploration
+		Use filters.
+07. Standardize Format
+
+08. Refining your dashboard
+		Add tooltips, comments, captions, links, etc
+09. Eliminate clutter
+		Is there anything you can remove or rearrange to add clarity?
+10. Test your dashboard for usability
+		
